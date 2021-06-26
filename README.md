@@ -1,22 +1,56 @@
-# CovidFrontend
+# Covid Knight 
+#### Sends notifications about covid-19 vaccine availability.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.1.
+This site/app will help you get real-time information about the availability & unavailability of the vaccine slots based on centers/hospitals through WhatsApp notifications. 
 
-## Development server
 
-Run `npm i` and then `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## Features
 
-## Code scaffolding
+* This site will send real-time notifications. 
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+* Each & every information provided to the user is the latest & 100% verified. 
 
+ ## Tips
+
+ Subscribe to get the latest news about the availability & unavailability of the vaccine slots.
+
+ ## Language & Technology Used 
+ * HTML
+ * Sass
+ * TypeScript
+ * Angular
+
+
+## Site URL
+
+https://vaccine.india-covid.info/
+
+  
+
+## Development Server
+
+Run  `npm i` and then `ng serve` for a dev server.Next browse to http://localhost:4200/. The app will automatically reload if you change any of the source files.
 ## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-## Running unit tests
+Run `ng` build to build the project. The build artifacts will be stored in the `dist/` directory.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+    
+## Screenshots
+
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
+
+  
+## Running Tests
+
+To run tests, run the following command
+
+```bash
+   ng test
+```
+
+  
 
 ## Running end-to-end tests
 
